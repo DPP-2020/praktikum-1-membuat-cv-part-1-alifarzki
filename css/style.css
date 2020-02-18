@@ -17,10 +17,25 @@ ol, ul {
 }
 
 .header1 {
-    padding-top:3px;
-    padding-bottom:3px;
+    padding-top:5px;
+    padding-bottom:1px;
     border-top:1px solid #ddd;
     border-bottom:1px solid #ddd;
+    margin-bottom: 10px;
 }
 
 .year {}
+
+.sidebar {
+    color: #ffffff;
+    background-color: #252872;
+    padding: 30px;
+}
+
+.header2 {
+    background-color:#121549 ;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
